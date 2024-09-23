@@ -100,15 +100,3 @@ Included in this repo you will find:
     • Pandas Solution and dataframes
 
 • (1-9) Labeled Screenshots for the requested dataframe outputs as part of this challenge
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> 23fa996b7c59dd6d62326858002959a2b0cfd3f6
